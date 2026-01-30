@@ -5,27 +5,30 @@
 ## 📋 Описание проекта
 Программа для решения головоломки "Пятнашки" (N-Puzzle) с использованием алгоритма поиска A*. Проект разработан на C++ в среде Visual Studio.
 
-N_Pazzle_algorithm/
-│
-├── [Исходный код]
-│ └── N_Pazzle_algorithm.cpp
-│
-├── [Файлы Visual Studio]
-│ ├── N_Pazzle_algorithm.sln
-│ ├── N_Pazzle_algorithm.vcxproj
-│ ├── N_Pazzle_algorithm.vcxproj.filters
-│ └── N_Pazzle_algorithm.vcxproj.user
-│
-├── [Папки сборки]
-│ ├── x64/
-│ │ ├── Debug/
-│ │ └── Release/
-│ ├── .vs/
-│ └── N_Pazzle.1edbd9d4/
-│
-└── [Служебные файлы]
-├── README.md
-└── .gitignore
+## 📁 СТРУКТУРА ПРОЕКТА
+
+В корневой папке N_Pazzle_algorithm находятся:
+
+### 📄 ФАЙЛЫ ИСХОДНОГО КОДА
+- N_Pazzle_algorithm.cpp (15.9 KB) - основной файл с реализацией алгоритма
+
+### ⚙️ ФАЙЛЫ ПРОЕКТА VISUAL STUDIO
+- N_Pazzle_algorithm.sln - файл решения
+- N_Pazzle_algorithm.vcxproj - файл проекта
+- N_Pazzle_algorithm.vcxproj.filters - фильтры для IDE
+- N_Pazzle_algorithm.vcxproj.user - пользовательские настройки
+
+### 📁 ПАПКИ
+- x64/ - папка для 64-битных сборок
+  - Debug/ - отладочная версия
+  - Release/ - релизная версия
+- .vs/ - служебная папка Visual Studio (в .gitignore)
+- N_Pazzle.1edbd9d4/ - временные файлы сборки
+- .git/ - папка системы контроля версий
+
+### 📄 СЛУЖЕБНЫЕ ФАЙЛЫ
+- README.md - этот файл
+- .gitignore - список игнорируемых файлов
 ## 🔧 Технические детали
 
 ### Основной файл кода
