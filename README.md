@@ -7,26 +7,25 @@
 
 ## 🏗️ Структура проекта
 N_Pazzle_algorithm/
+├── .git/                    # Папка Git (системная)
+├── .vs/                    # Папка Visual Studio (в .gitignore)
+├── N_Pazzle.1edbd9d4/      # Временные файлы сборки (возможно)
+├── x64/                    # Папка для 64-битной сборки
+│   ├── Debug/              # Debug версия
+│   └── Release/            # Release версия
 │
-├── 📄 N_Pazzle_algorithm.cpp - ГЛАВНЫЙ файл с исходным кодом
-│ Содержит всю логику алгоритма
+├── ИСХОДНЫЙ КОД:
+│   ├── N_Pazzle_algorithm.cpp    # ОСНОВНОЙ файл с кодом (15.9 KB)
 │
-├── ⚙️ Файлы проекта Visual Studio:
-│ ├── N_Pazzle_algorithm.sln - Файл решения
-│ ├── N_Pazzle_algorithm.vcxproj - Файл проекта
-│ ├── N_Pazzle_algorithm.vcxproj.filters - Фильтры файлов в IDE
-│ └── N_Pazzle_algorithm.vcxproj.user - Пользовательские настройки
+├── ФАЙЛЫ ПРОЕКТА Visual Studio:
+│   ├── N_Pazzle_algorithm.sln    # Решение Visual Studio (1.5 KB)
+│   ├── N_Pazzle_algorithm.vcxproj      # Проект Visual Studio (6.4 KB)
+│   ├── N_Pazzle_algorithm.vcxproj.filters  # Фильтры проекта (1 KB)
+│   └── N_Pazzle_algorithm.vcxproj.user    # Пользовательские настройки (168 B)
 │
-├── 📁 Папки сборки:
-│ ├── x64/ - 64-битные сборки
-│ │ ├── Debug/ - Отладочная версия
-│ │ └── Release/ - Оптимизированная версия
-│ ├── N_Pazzle.1edbd9d4/ - Временные файлы компиляции
-│ └── .vs/ - Кэш и настройки Visual Studio
-│
-└── 📄 Служебные файлы:
-├── README.md - Эта документация
-└── .gitignore - Список игнорируемых Git файлов
+└── СЛУЖЕБНЫЕ ФАЙЛЫ:
+    ├── .gitignore          # Игнорируемые файлы (7 B)
+    └── README.md           # Этот файл (создадим)
 
 ## 🔧 Технические детали
 
