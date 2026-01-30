@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\word\\study\\Projects\\Training_project\\N_Pazzle_algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDBD9D4-DAB9-442C-8DEA-F596153FE3B1}|N_Pazzle_algorithm.vcxproj|C:\\word\\study\\Projects\\Training_project\\N_Pazzle_algorithm\\N_Pazzle_algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EDBD9D4-DAB9-442C-8DEA-F596153FE3B1}|N_Pazzle_algorithm.vcxproj|solutionrelative:N_Pazzle_algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "N_Pazzle_algorithm.cpp",
+              "DocumentMoniker": "C:\\word\\study\\Projects\\Training_project\\N_Pazzle_algorithm\\N_Pazzle_algorithm.cpp",
+              "RelativeDocumentMoniker": "N_Pazzle_algorithm.cpp",
+              "ToolTip": "C:\\word\\study\\Projects\\Training_project\\N_Pazzle_algorithm\\N_Pazzle_algorithm.cpp",
+              "RelativeToolTip": "N_Pazzle_algorithm.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAPQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T12:47:03.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
